@@ -7,15 +7,15 @@ Todo Application Backend
 - [x] Status cannot be complete
 
 ### Update:
-- [ ]Title and deadline can be changed
-- [ ] Once task has been completed, no field can be changed
+- [X] Title, deadline and status can be changed
+- [X] Once task has been completed, it  cannot be updated
 - [ ] updated_at field will automatically get populated based on the most recent update
 
 ### Delete:
 - [x] Any task can be deleted
 
 ### Read:
-- Tasks can be searched based on title, status and date_range
+- [X] Tasks can be searched based on title, status and date_range
 
 ### Others:
 - [ ] Everything should be timezone aware
